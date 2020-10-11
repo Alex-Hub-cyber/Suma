@@ -1,0 +1,13 @@
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\bin\Debug\netcoreapp3.1\APPSUMAR.exe
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\bin\Debug\netcoreapp3.1\APPSUMAR.deps.json
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\bin\Debug\netcoreapp3.1\APPSUMAR.runtimeconfig.json
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\bin\Debug\netcoreapp3.1\APPSUMAR.runtimeconfig.dev.json
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\bin\Debug\netcoreapp3.1\APPSUMAR.dll
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\bin\Debug\netcoreapp3.1\APPSUMAR.pdb
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\obj\Debug\netcoreapp3.1\APPSUMAR.csprojAssemblyReference.cache
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\obj\Debug\netcoreapp3.1\APPSUMAR.AssemblyInfoInputs.cache
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\obj\Debug\netcoreapp3.1\APPSUMAR.AssemblyInfo.cs
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\obj\Debug\netcoreapp3.1\APPSUMAR.csproj.CoreCompileInputs.cache
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\obj\Debug\netcoreapp3.1\APPSUMAR.dll
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\obj\Debug\netcoreapp3.1\APPSUMAR.pdb
+C:\Users\Garcia\Documents\Visual Studio 2019\APPSUMAR\obj\Debug\netcoreapp3.1\APPSUMAR.genruntimeconfig.cache
